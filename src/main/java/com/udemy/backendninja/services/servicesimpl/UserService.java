@@ -14,6 +14,5 @@ public class UserService implements UserDetailsService {
 		return null;
 	}
 	
-	private User buildUser()
 
 }
